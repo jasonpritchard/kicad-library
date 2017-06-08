@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FQP30N06L
+D 60V Vds, 32A Id, N-Channel MOSFET, TO-220
+K N-Channel MOSFET Logic Level
+F https://www.fairchildsemi.com/datasheets/FQ/FQP30N06L.pdf
+$ENDCMP
+#
+#End Doc Library

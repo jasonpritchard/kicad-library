@@ -1,0 +1,48 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AMS1117
+D 1A LOW DROPOUT VOLTAGE REGULATOR 
+K LDO
+$ENDCMP
+#
+$CMP AMS1117-3.3
+D 1A LOW DROPOUT VOLTAGE REGULATOR  3.3v
+K LDO
+$ENDCMP
+#
+$CMP AMS1117-5
+D 1A LOW DROPOUT VOLTAGE REGULATOR  5v
+K LDO
+$ENDCMP
+#
+$CMP LMR14030
+D SIMPLE SWITCHER 40V 3.5A Step-Down Converter
+K DC/DC Converter, Buck Converter
+F http://www.ti.com/lit/ds/symlink/lmr14030.pdf
+$ENDCMP
+#
+$CMP RT6222A/B
+D REG BUCK ADJ 2.5A SYNC SOT-23
+K DC-DC Regulator, Buck Converter
+F http://www.richtek.com/assets/product_file/RT6222A=RT6222B/DS6222AB-00.pdf
+$ENDCMP
+#
+$CMP RT6222C/D
+D REG BUCK ADJ 2A SYNC SOT-23
+K DC-DC Regulator, Buck Converter
+F http://www.richtek.com/assets/product_file/RT6222C=RT6222D/DS6222CD-00.pdf
+$ENDCMP
+#
+$CMP RT7285A
+D REG BUCK ADJ 1.5A SYNC SOT-23
+K DC-DC Regulator
+F http://www.richtek.com/assets/product_file/RT7285=RT7285A/DS7285A-01.pdf
+$ENDCMP
+#
+$CMP XRP7659
+D REG BUCK ADJ 1.5A SOT-23-6
+K DC-DC Regulator
+F https://www.exar.com/content/document.ashx?id=21180
+$ENDCMP
+#
+#End Doc Library
